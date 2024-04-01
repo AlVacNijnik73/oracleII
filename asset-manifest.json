@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d1095e66.css",
+    "main.js": "./static/js/main.79efec69.js",
+    "static/media/BLACK_II_desktop.jpg": "./static/media/BLACK_II_desktop.452db8dd8bcfb0fc72f1.jpg",
+    "static/media/Oswald-SemiBold.ttf": "./static/media/Oswald-SemiBold.ddc9cdcf259f8e6a1d35.ttf",
+    "static/media/Oswald-Bold.ttf": "./static/media/Oswald-Bold.41669c1e4f6bdc605d26.ttf",
+    "static/media/Oswald-Medium.ttf": "./static/media/Oswald-Medium.79e266089ef37332d7ae.ttf",
+    "static/media/Oswald-Regular.ttf": "./static/media/Oswald-Regular.31bce04a1ae8549b1464.ttf",
+    "static/media/icon69.svg": "./static/media/icon69.428c58466a308be1d3e42db33e7f030a.svg",
+    "static/media/blobOpinion.svg": "./static/media/blobOpinion.b40978ef3bee5b1e2b9b1c537e23b0ca.svg",
+    "index.html": "./index.html",
+    "main.d1095e66.css.map": "./static/css/main.d1095e66.css.map",
+    "main.79efec69.js.map": "./static/js/main.79efec69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1095e66.css",
+    "static/js/main.79efec69.js"
+  ]
+}
